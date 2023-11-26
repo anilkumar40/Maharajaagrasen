@@ -1,1 +1,2 @@
-console.log("Hello world!");
+const apple="i am using first time github"
+console.log("Hello world!"+apple);
