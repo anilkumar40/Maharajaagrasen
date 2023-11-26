@@ -10,5 +10,3 @@ const person = {
     age: 35,
     eyeColor: "black"
   };
-console.log("Hello world!"+person.firstName+" "+person.lastName+person.age+person.eyeColor);
-console.log("Hello world!"+person1.firstName+" "+person1.lastName+person1.age+person1.eyeColor);
