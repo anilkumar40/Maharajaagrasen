@@ -3,5 +3,5 @@
 
 const car = "Fiat";
 // document.getElementById("demo").innerHTML = car;
-const person={name: "John", age:"22",};
-
+const person={name: "anil", age:"22"};
+const color={name: "green", age : "34"};
